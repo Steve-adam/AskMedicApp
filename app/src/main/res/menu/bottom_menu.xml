@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/action_hospital"
+        android:enabled="true"
+        android:title="Hospitals"
+        android:icon="@drawable/ic_medical_services"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_clinic"
+        android:enabled="true"
+        android:title="Clinics"
+        android:icon="@drawable/ic_hospital_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_chemist"
+        android:enabled="true"
+        android:title="Chemists"
+        android:icon="@drawable/ic_healing"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652052903665",
+    "project_id": "askmedic-7e352",
+    "storage_bucket": "askmedic-7e352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652052903665:android:8fe20940a38bf9cde4db50",
+        "android_client_info": {
+          "package_name": "com.example.askmedic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652052903665-17spj757ks73q6rkllb5lkeffr37qpq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBPn-HdbOYgeDU30owkDuBH-ZLqYF4aMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652052903665-17spj757ks73q6rkllb5lkeffr37qpq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

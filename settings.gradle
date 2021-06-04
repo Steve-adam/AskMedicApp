@@ -1,0 +1,2 @@
+rootProject.name = "askMedic"
+include ':app'
