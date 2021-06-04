@@ -30,7 +30,7 @@
             android:layout_height="180dp"
             android:layout_gravity="center"
             android:scaleType="centerInside"
-            android:src="@mipmap/ask"/>
+            android:src="@drawable/ic_ask"/>
 
         <TextView
             android:layout_width="wrap_content"
